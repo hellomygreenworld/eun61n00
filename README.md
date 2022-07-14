@@ -10,7 +10,11 @@ I'm majoring in Industrial Engineering and Computer Science.</div>
 <br/>
 
 <div align="center"> <h3>🌱 Languages</h3>
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img alt="C" src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=White"/> <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&locoColor=White"/> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> 
+<img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <br/>
 <br/>
 
