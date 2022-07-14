@@ -4,7 +4,11 @@ I'm studying at Seoultech and 42Seoul.
 ### 🌱 Languages
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img alt="C" src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=White"/> <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&locoColor=White"/> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
-### 🌿 I'm Interested in...
+### 🌿 Tools
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) <br/>
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+### 🌳 I'm Interested in...
 - Machine Learning
 - Industrial Engineering
 
