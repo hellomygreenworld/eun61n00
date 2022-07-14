@@ -1,3 +1,5 @@
+<!--![header](https://capsule-render.vercel.app/api?type=wave&color=5FD068&height=150&section=header&text=Eunbin&Kwon&fontSize=50)-->
+
 # 👋 Hi, I’m Eunbin Kwon
 I'm studying at Seoultech and 42Seoul.
 
@@ -19,8 +21,7 @@ I'm studying at Seoultech and 42Seoul.
 
 [![eukwon's 42 stats](https://badge42.vercel.app/api/v2/cl5kiwlg3000609jphh6n6njn/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)<br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eun61n00&hide=contribs,prs)<br/>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=eun61n)](https://solved.ac/eun61n)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=eun61n)](https://solved.ac/profile/eun61n)
 
 <!---
 eun61n00/eun61n00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
