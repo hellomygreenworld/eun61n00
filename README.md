@@ -2,7 +2,7 @@
 <div align="center">
 <h1>👋 Hi, I’m Eunbin Kwon</h1>
 </div>
-<div align="center">I'm undergraduate student of SeoulTech and Cadet of 42Seoul.<br/>
+<div align="center">I'm undergraduate student of SeoulTech and cadet of 42Seoul.<br/>
 I'm majoring in Industrial Engineering and Computer Science.</div>
 
 <br/>
