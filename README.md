@@ -44,8 +44,7 @@ I'm majoring in Industrial Engineering and Computer Science.</div>
 <br/>
 <br/>
 
-[![eukwon's 42 stats](https://badge42.vercel.app/api/v2/cl5kiwlg3000609jphh6n6njn/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)<br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eun61n00&hide=contribs,prs)<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eun61n00&hide=contribs,prs)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=eun61n)](https://solved.ac/profile/eun61n)
 </div>
 
