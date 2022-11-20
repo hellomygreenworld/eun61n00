@@ -1,13 +1,13 @@
 <!--![header](https://capsule-render.vercel.app/api?type=wave&color=5FD068&height=150&section=header&text=Eunbin&Kwon&fontSize=50)-->
 <div align="center">
-<h1>👋 Hi, I’m Eunbin Kwon</h1>
+<h1>Hi, I’m Eunbin Kwon</h1>
 </div>
-<div align="center">I'm undergraduate student of SeoulTech and cadet of 42Seoul.<br/>
-I'm majoring in Industrial Engineering and Computer Science.</div>
+<!-- <div align="center">I'm undergraduate student of SeoulTech and cadet of 42Seoul.<br/>
+I'm majoring in Industrial Engineering and Computer Science.</div> -->
 
+<!-- <br/>
 <br/>
-<br/>
-<br/>
+<br/> -->
 
 <div align="center"> <h3>🌱 Languages</h3>
 <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
@@ -31,19 +31,19 @@ I'm majoring in Industrial Engineering and Computer Science.</div>
 <br/>
 <br/>
 
-<h3>🌳 I'm Interested in...</h3>
+<!-- <h3>🌳 I'm Interested in...</h3>
 <li>Data Engineering</li>
 <li>Machine Learning</li>
 <li>Industrial Engineering</li>
 <br/>
-<br/>
+<br/> -->
 
 <h3>📞 Contact</h3>
 <a href="eun61n@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <!--
 <a href="https://eunbin00.tistory.com" target="_blank"> <img alt="Tistory" src="https://img.shields.io/badge/Tech%20Blog-555263?style=for-the-badge&logoColor=white"/></a>
 -->
-<a href="https://www.instagram.com/eun61n/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<!-- <a href="https://www.instagram.com/eun61n/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> -->
 
 <br/>
 <br/>
