@@ -1,5 +1,7 @@
 <!--![header](https://capsule-render.vercel.app/api?type=wave&color=5FD068&height=150&section=header&text=Eunbin&Kwon&fontSize=50)-->
 <div align="center">
+ <img width="1000" alt="Screenshot 2022-12-26 at 6 41 27 PM" src="https://user-images.githubusercontent.com/71613548/209533718-8e062a5c-af6b-4688-923d-b1485750fb23.png">
+
 <h1>Welcome to my green world 🧩 </h1>
 <h3>I’m Eunbin Kwon</h3>
 
