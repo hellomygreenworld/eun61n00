@@ -1,4 +1,4 @@
-![naver_title](https://user-images.githubusercontent.com/71613548/214770923-3c29673f-d752-4325-88c3-6f0994d6275d.png)
+<!-- ![naver_title](https://user-images.githubusercontent.com/71613548/214770923-3c29673f-d752-4325-88c3-6f0994d6275d.png) -->
 <h2>Welcome to my green world! I'm Eunbin Kwon 🌱</h2>
 @hellomygreenworld<br/>
 I'm undergraduate student of SeoulTech and cadet of 42Seoul.<br/>
