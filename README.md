@@ -44,7 +44,7 @@ I'm majoring in Industrial Engineering and Computer Science.
 <a href="eun61n@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/eun61n/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
  <a href="https://eunbin00.tistory.com" target="_blank"> <img alt="Tistory" src="https://img.shields.io/badge/Tech%20Blog-555263?style=for-the-badge&logoColor=white&logo=Tistory"/></a>
- <a href="https://blog.naver.com/hellomygreenworld" target="_blank"><img alt="Naver Blog" src="https://img.shields.io/badge/Daily%20Blog-FFFFFF?style=for-the-badge&logoColor=white&logo=Naver&logoColor=white"/></a>
+<!--  <a href="https://blog.naver.com/hellomygreenworld" target="_blank"><img alt="Naver Blog" src="https://img.shields.io/badge/Daily%20Blog-FFFFFF?style=for-the-badge&logoColor=white&logo=Naver&logoColor=white"/></a> -->
  
  <br/>
  <br/>
