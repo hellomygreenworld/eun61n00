@@ -49,7 +49,7 @@ I'm majoring in Industrial Engineering and Computer Science.
  <br/>
  <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hellomygreenworld&show_icons=true&theme=vue)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eun61n00&show_icons=true&theme=vue)
  [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=eun61n)](https://solved.ac/eun61n)
 
