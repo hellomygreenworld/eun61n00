@@ -4,7 +4,7 @@
  <i>I'm undergraduate student of SeoulTech <br/>majoring in Industrial Engineering and Computer Science.</i>
  <br/>
  <br/>
- <i>I want to be a developer who makes you happy and convinient.</i>
+ <i>I want to be a developer makes you happy and convinient.</i>
 </p>
 <br/>
 <p align="center">
